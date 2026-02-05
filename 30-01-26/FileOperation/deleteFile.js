@@ -6,4 +6,5 @@ fs.unlink("data.txt", (err) => {
   } else {
     console.log("File deleted successfully");
   }
-});
+}
+);
